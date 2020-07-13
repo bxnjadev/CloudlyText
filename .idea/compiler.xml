@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Bukkit" />
+        <module name="version-1_8_R3" />
+        <module name="Universal" />
       </profile>
     </annotationProcessing>
   </component>

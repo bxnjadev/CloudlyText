@@ -10,11 +10,12 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Bukkit</module>
+        <module>version-1_8_R3</module>
+        <module>Universal</module>
     </modules>
 
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
 </project>
