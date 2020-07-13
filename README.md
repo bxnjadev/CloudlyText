@@ -3,7 +3,7 @@ Json message API
 
 SupremeText is an api to send messages with titles and messages in actionbar.
 
-##Use
+## Use
 first you create a variable of type SupremeText.
 
 ```
@@ -17,7 +17,7 @@ first you create a variable of type SupremeText.
  
 ```
 
-##Send Title 
+## Send Title 
 
 ```
 
@@ -25,7 +25,7 @@ first you create a variable of type SupremeText.
 
 ```
 
-##Send ActionBar
+## Send ActionBar
 
 ```
 
@@ -33,7 +33,7 @@ first you create a variable of type SupremeText.
 
 ```
 
-###Send json message
+## Send json message
 you must first create a Message variable, help yourself with MessageBuilder
 
 ```
