@@ -39,7 +39,7 @@ Message message = new MessageBuilder("This is a json message")
 
 ## Versions
 
-- [ ] 1_8_R1
+- [X ] 1_8_R1
 - [X] 1_8_R2
 - [X] 1_8_R3
 - [ ] 1_9_R1
