@@ -1,5 +1,5 @@
 # SupremeText
-SupremeText is an api to send messages with titles and messages in actionbar.
+SupremeText is an API to send json messages, messages with titles and messages in the action bar.
 
 ## Use
 first you create a variable of type SupremeText.
