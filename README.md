@@ -1,6 +1,4 @@
 # SupremeText
-Json message API 
-
 SupremeText is an api to send messages with titles and messages in actionbar.
 
 ## Use
