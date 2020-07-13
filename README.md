@@ -5,14 +5,12 @@ SupremeText is an API to send json messages, messages with titles and messages i
 first you create a variable of type SupremeText.
 
 ```
-  
   SupremeText supremeText;
   
   @Override
   public void onEnable(){
      supremeText = TextAPI.getAPI();
   }
- 
 ```
 
 ## Send Title 
