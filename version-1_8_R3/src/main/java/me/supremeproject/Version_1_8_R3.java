@@ -1,6 +1,7 @@
 package me.supremeproject;
 
 import me.supremeproject.message.Message;
+import me.supremeproject.objects.Title;
 import net.minecraft.server.v1_8_R3.*;
 import org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer;
 import org.bukkit.entity.Player;
@@ -15,15 +16,19 @@ public class Version_1_8_R3 implements SupremeText {
     }
 
     @Override
-    public void sendTitle(Player player, String title, String subtitle, int time1, int time2, int time3) {
-        IChatBaseComponent titleText = new ChatMessage(title);
-        IChatBaseComponent subtitleText = new ChatMessage(subtitle);
+    public void sendTitle(Player player, Title title) {
+        IChatBaseComponent titleText = new ChatMessage(title.getTitle());
+        IChatBaseComponent subtitleText = new ChatMessage(title.getSubtitle());
+
+       int fadeInTime = title.getFadeInTime();
+       int fadeShowTime = title.getFadeShowTime();
+       int fadeOutTime = title.getFadeOutTime();
 
         PacketPlayOutTitle titlePacket = new PacketPlayOutTitle(
-                PacketPlayOutTitle.EnumTitleAction.TITLE, titleText,time1,time2,time3);
+                PacketPlayOutTitle.EnumTitleAction.TITLE, titleText,fadeInTime,fadeShowTime,fadeOutTime);
 
         PacketPlayOutTitle subtitlePacket = new PacketPlayOutTitle(
-                PacketPlayOutTitle.EnumTitleAction.SUBTITLE, subtitleText,time1,time2,time3);
+                PacketPlayOutTitle.EnumTitleAction.SUBTITLE, subtitleText,fadeInTime,fadeShowTime,fadeOutTime);
 
         sendPacket(player,titlePacket);
         sendPacket(player,subtitlePacket);
