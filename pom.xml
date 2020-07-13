@@ -12,6 +12,7 @@
         <module>Bukkit</module>
         <module>version-1_8_R3</module>
         <module>Universal</module>
+        <module>version-1_8_R2</module>
     </modules>
 
     <properties>

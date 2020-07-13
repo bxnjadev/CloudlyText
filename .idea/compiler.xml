@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Bukkit" />
         <module name="version-1_8_R3" />
+        <module name="version-1_8_R2" />
         <module name="Universal" />
       </profile>
     </annotationProcessing>
