@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Bukkit</artifactId>
+    <artifactId>SupremeText-Bukkit</artifactId>
 
     <name>Bukkit</name>
     <build>

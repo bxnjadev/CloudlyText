@@ -45,7 +45,7 @@
         </dependency>
         <dependency>
             <groupId>me.supremeproject</groupId>
-            <artifactId>Universal</artifactId>
+            <artifactId>SupremeText-Universal</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>

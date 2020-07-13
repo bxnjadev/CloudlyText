@@ -15,7 +15,7 @@ public class Version_1_8_R3 implements SupremeText {
     }
 
     @Override
-    public void setTitle(Player player, String title, String subtitle, int time1, int time2, int time3) {
+    public void sendTitle(Player player, String title, String subtitle, int time1, int time2, int time3) {
         IChatBaseComponent titleText = new ChatMessage(title);
         IChatBaseComponent subtitleText = new ChatMessage(subtitle);
 
@@ -30,7 +30,7 @@ public class Version_1_8_R3 implements SupremeText {
     }
 
     @Override
-    public void setActionBar(Player player, String text) {
+    public void sendActionBar(Player player, String text) {
         IChatBaseComponent baseComponent = IChatBaseComponent.ChatSerializer.a("{\"text\":\"" + text + "\"}");
         PacketPlayOutChat packetChat = new PacketPlayOutChat(baseComponent);
         sendPacket(player,packetChat);
