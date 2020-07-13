@@ -15,8 +15,14 @@ first you create a variable of type SupremeText.
 
 ## Send Title 
 
+You must create an object of type title
+
 ```  
-supremeText.sendTitle(player,"title","subtitle",20,20,20);
+Title title = new Title("title","subtitle",fadeInTime,fadeShowTime,fadeOutTime);
+```  
+And send it with this method
+```  
+supremeText.sendTitle(player,title);
 ```
 
 ## Send ActionBar
