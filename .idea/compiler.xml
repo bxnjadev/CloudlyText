@@ -9,8 +9,12 @@
         <module name="Bukkit" />
         <module name="version-1_8_R3" />
         <module name="version-1_8_R2" />
+        <module name="version-1_8_R1" />
         <module name="Universal" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1_8_R1" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
