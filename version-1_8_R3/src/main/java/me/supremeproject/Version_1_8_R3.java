@@ -6,7 +6,7 @@ import net.minecraft.server.v1_8_R3.*;
 import org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 
-public class Version_1_8_R3 implements SupremeText {
+public class Version_1_8_R3 implements SupremeText, NMS {
 
     @Override
     public void sendMessage(Player player, Message message) {
@@ -41,6 +41,7 @@ public class Version_1_8_R3 implements SupremeText {
         sendPacket(player,packetChat);
     }
 
+    @Override
     public void sendPacket(Player player, Object object){
         ((CraftPlayer)player).getHandle().playerConnection.sendPacket((Packet) object);
     }
