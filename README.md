@@ -19,10 +19,7 @@ first you create a variable of type SupremeText.
 
 ## Send Title 
 
-```
-
-  supremeText.sendTitle(player,"title","subtitle",20,20,20);
-
+```  supremeText.sendTitle(player,"title","subtitle",20,20,20);
 ```
 
 ## Send ActionBar
