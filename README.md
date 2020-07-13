@@ -37,6 +37,12 @@ Message message = new MessageBuilder("This is a json message")
    supremeText.sendMessage(player,message);
 ```
 
+## Versions
+
+- [] 1_8_R1
+- [X] 1_8_R2
+- [X] 1_8_R3
+
 enjoy!
 
 
