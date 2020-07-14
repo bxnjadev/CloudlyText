@@ -2,11 +2,11 @@ package me.supremeproject;
 
 import me.supremeproject.message.Message;
 import me.supremeproject.objects.Title;
-import net.minecraft.server.v1_13_R1.*;
-import org.bukkit.craftbukkit.v1_13_R1.entity.CraftPlayer;
+import net.minecraft.server.v1_15_R1.*;
+import org.bukkit.craftbukkit.v1_15_R1.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 
-public class Version_1_13_R1 implements SupremeText, NMS {
+public class Version_1_15_R1 implements SupremeText, NMS {
 
     @Override
     public void sendMessage(Player player, Message message) {
@@ -45,5 +45,4 @@ public class Version_1_13_R1 implements SupremeText, NMS {
     public void sendPacket(Player player, Object packet) {
         ((CraftPlayer)player).getHandle().playerConnection.sendPacket((Packet) packet);
     }
-
 }
