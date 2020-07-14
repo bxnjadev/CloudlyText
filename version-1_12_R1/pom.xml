@@ -9,9 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>SupremeText-Bukkit</artifactId>
-
-    <name>Bukkit</name>
+    <artifactId>version-1_12_R1</artifactId>
+    <name>version-1_12_R1</name>
     <build>
         <plugins>
             <plugin>
@@ -39,43 +38,13 @@
     <dependencies>
         <dependency>
             <groupId>org.spigotmc</groupId>
-            <artifactId>spigot-api</artifactId>
-            <version>1.8.8-R0.1-SNAPSHOT</version>
+            <artifactId>spigot</artifactId>
+            <version>1.12.2-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>me.supremeproject</groupId>
-            <artifactId>version-1_8_R3</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>me.supremeproject</groupId>
-            <artifactId>version-1_8_R2</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>me.supremeproject</groupId>
-            <artifactId>version-1_8_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>me.supremeproject</groupId>
-            <artifactId>version-1_9_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>me.supremeproject</groupId>
-            <artifactId>version-1_9_R2</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>me.supremeproject</groupId>
-            <artifactId>version-1_12_R1</artifactId>
+            <artifactId>SupremeText-Universal</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
