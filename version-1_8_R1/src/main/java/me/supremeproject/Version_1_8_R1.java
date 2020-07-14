@@ -37,7 +37,7 @@ public class Version_1_8_R1 implements SupremeText, NMS {
     @Override
     public void sendActionBar(Player player, String text) {
         IChatBaseComponent baseComponent = ChatSerializer.a("{\"text\":\"" + text + "\"}");
-        PacketPlayOutChat packetChat = new PacketPlayOutChat(baseComponent);
+        PacketPlayOutChat packetChat = new PacketPlayOutChat(baseComponent,(byte)2);
         sendPacket(player,packetChat);
     }
 

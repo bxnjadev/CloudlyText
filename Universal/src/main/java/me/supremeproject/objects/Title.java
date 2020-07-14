@@ -37,4 +37,5 @@ public class Title {
         return fadeOutTime;
     }
 
+
 }

@@ -45,12 +45,6 @@
         </dependency>
         <dependency>
             <groupId>me.supremeproject</groupId>
-            <artifactId>Universal</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>me.supremeproject</groupId>
             <artifactId>version-1_8_R3</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>

@@ -10,7 +10,11 @@ public class HoverBuilder {
     }
 
     public HoverBuilder append(String text){
-        hover.append(text).append("\n");
+        if(hover.length() == 0){
+            hover.append(text);
+            return this;
+        }
+        hover.append("\n").append(text);
         return this;
     }
 

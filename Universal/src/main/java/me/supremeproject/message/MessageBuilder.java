@@ -1,11 +1,14 @@
 package me.supremeproject.message;
 
 import me.supremeproject.message.action.Action;
+import org.bukkit.ChatColor;
 
 public class MessageBuilder {
     private String message;
     private HoverBuilder hoverBuilder;
     private Action action;
+
+    private ChatColor color;
 
     public MessageBuilder(String message){
         this.message = message;
@@ -21,8 +24,17 @@ public class MessageBuilder {
         return this;
     }
 
+    public MessageBuilder setColor(ChatColor color){
+        this.color = color;
+        return this;
+    }
+
     public String getMessage(){
         return message;
+    }
+
+    public ChatColor getColor(){
+        return color;
     }
 
     public HoverBuilder getHover(){
