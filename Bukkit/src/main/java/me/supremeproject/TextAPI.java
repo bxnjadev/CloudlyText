@@ -31,6 +31,14 @@ public class TextAPI {
             return new Version_1_12_R1();
         }
 
+        if(version.contains("1_13_R1")){
+            return null;
+        }
+
+        if(version.contains("1_13_R2")){
+            return new Version_1_13_R2();
+        }
+
         return null;
     }
 
