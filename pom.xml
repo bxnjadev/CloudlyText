@@ -22,6 +22,7 @@
         <module>version-1_15_R1</module>
         <module>version-1_11_R1</module>
         <module>version-1_10_R1</module>
+        <module>version_1_14_R1</module>
     </modules>
 
     <properties>
