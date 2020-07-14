@@ -17,6 +17,7 @@
         <module name="version-1_15_R1" />
         <module name="version-1_9_R2" />
         <module name="Bukkit" />
+        <module name="version-1_11_R1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
