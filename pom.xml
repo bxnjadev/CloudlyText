@@ -15,6 +15,7 @@
         <module>version-1_8_R2</module>
         <module>version-1_8_R1</module>
         <module>version-1_9_R1</module>
+        <module>version-1_9_R2</module>
     </modules>
 
     <properties>
