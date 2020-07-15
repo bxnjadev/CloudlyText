@@ -57,7 +57,7 @@ Message message = new MessageBuilder("This is a json message")
 - [X] 1_13_R2
 - [X] 1_14_R1
 - [X] 1_15_R1
-- [ ] 1_16_R1
+- [X] 1_16_R1
 
 enjoy!
 
