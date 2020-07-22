@@ -24,6 +24,10 @@ public class MessageBuilder {
         return this;
     }
 
+    public void append(String text){
+
+    }
+
     public MessageBuilder setColor(ChatColor color){
         this.color = color;
         return this;

@@ -4,15 +4,21 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 public class Message {
-    private MessageBuilder builder;
+    private JSONArray jsonArray;
 
-    public Message(MessageBuilder builder){
-        this.builder = builder;
+    public Message(MessageBuilder builder) {
+        jsonArray = new JSONArray();
+        add(builder);
     }
 
-    public JSONArray getJson() {
-        JSONArray jsonArray = new JSONArray();
+    public void add(String text){
+        MessageBuilder builder = new MessageBuilder(text)
+                .setHover(null)
+                .setAction(null);
+        add(builder);
+    }
 
+    public void add(MessageBuilder builder){
         JSONObject objectText = new JSONObject();
         objectText.put("text",builder.getMessage());
 
@@ -38,7 +44,9 @@ public class Message {
         }
 
         jsonArray.add(objectText);
+    }
 
+    public JSONArray getJson() {
         return jsonArray;
     }
 }

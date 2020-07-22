@@ -40,7 +40,7 @@ public class TextAPI {
         }
 
         if(version.contains("1_13_R1")){
-            return null;
+            return new Version_1_13_R1();
         }
 
         if(version.contains("1_13_R2")){

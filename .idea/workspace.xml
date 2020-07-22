@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Bukkit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/TextAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/TextAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/target/SupremeText-Bukkit-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/SupremeText-Bukkit-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/target/classes/me/supremeproject/TextAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/classes/me/supremeproject/TextAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/MessageBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/MessageBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/target/SupremeText-Universal-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/SupremeText-Universal-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/MessageBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/MessageBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_10_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/src/main/java/me/supremeproject/Version_1_11_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/src/main/java/me/supremeproject/Version_1_11_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/version-1_11_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/version-1_11_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/version-1_12_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/version-1_12_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R1/version-1_13_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/version-1_13_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R2/version-1_13_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/version-1_13_R2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_15_R1/version-1_15_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/version-1_15_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/version-1_8_R1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/version-1_8_R1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R1/version-1_8_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/version-1_8_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/version-1_8_R2-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/version-1_8_R2-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R2/version-1_8_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/version-1_8_R2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/version-1_8_R3-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/version-1_8_R3-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R3/version-1_8_R3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/version-1_8_R3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/version-1_9_R1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/version-1_9_R1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R1/version-1_9_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/version-1_9_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_14_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_14_R1/version_1_14_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/version_1_14_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/src/main/java/me/supremeproject/Version_1_16_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/src/main/java/me/supremeproject/Version_1_16_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/version_1_16_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/version_1_16_R1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ecI0xCZMn60NPv4sKSZAKePrCO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spigot/Versiones/spigot-1.16.1.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14257812" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\supre\intelijj\SupremeText\version-1_9_R2" />
+      <recent name="C:\Users\supre\intelijj\SupremeText\version-1_9_R1" />
+      <recent name="C:\Users\supre\intelijj\SupremeText\version-1_8_R3" />
+      <recent name="C:\Users\supre\intelijj\SupremeText\version-1_8_R2" />
+      <recent name="C:\Users\supre\intelijj\SupremeText\version-1_8_R1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="" />
+      <created>1594614234379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594614234379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1594791605418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594791605418" />
+    <state x="707" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1594770831215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="707" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594770831215" />
+    <state x="599" y="43" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1594772202558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="43" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1594772202558" />
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1594766820513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594766820513" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594787948378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594787948378" />
+    <state width="1493" height="170" key="GridCell.Tab.0.bottom" timestamp="1594827753017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594827753017" />
+    <state width="1493" height="170" key="GridCell.Tab.0.center" timestamp="1594827753017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="170" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594827753017" />
+    <state width="1493" height="170" key="GridCell.Tab.0.left" timestamp="1594827753017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="170" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594827753017" />
+    <state width="1493" height="170" key="GridCell.Tab.0.right" timestamp="1594827753017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="170" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594827753017" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1595401133080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1595401133080" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1594792361588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594792361588" />
+    <state x="209" y="0" key="new project wizard" timestamp="1594770570102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594770570102" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594769333770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594769333770" />
+  </component>
+</project>
