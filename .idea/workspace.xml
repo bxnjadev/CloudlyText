@@ -20,49 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Bukkit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/TextAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/TextAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/SupremeText-Bukkit-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/SupremeText-Bukkit-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/classes/me/supremeproject/TextAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/classes/me/supremeproject/TextAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/MessageBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/MessageBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/SupremeText-Universal-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/SupremeText-Universal-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/MessageBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/MessageBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/src/main/java/me/supremeproject/Version_1_11_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/src/main/java/me/supremeproject/Version_1_11_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/version-1_11_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/version-1_11_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/version-1_12_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/version-1_12_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/version-1_13_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/version-1_13_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/version-1_13_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/version-1_13_R2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/version-1_15_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/version-1_15_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/version-1_8_R1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/version-1_8_R1-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/version-1_8_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/version-1_8_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/version-1_8_R2-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/version-1_8_R2-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/version-1_8_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/version-1_8_R2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/version-1_8_R3-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/version-1_8_R3-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/version-1_8_R3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/version-1_8_R3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/version-1_9_R1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/version-1_9_R1-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/version-1_9_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/version-1_9_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/version_1_14_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/version_1_14_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/src/main/java/me/supremeproject/Version_1_16_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/src/main/java/me/supremeproject/Version_1_16_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/version_1_16_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/version_1_16_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/TextAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/VersionFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

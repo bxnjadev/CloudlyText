@@ -2,7 +2,7 @@ package me.supremeproject;
 
 import org.bukkit.Bukkit;
 
-public class TextAPI {
+public class VersionFactory {
 
     public static SupremeText getAPI(){
         String version = Bukkit.getServer().getClass().getPackage().getName().split("\\.")[3];
