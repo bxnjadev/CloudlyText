@@ -9,7 +9,7 @@ first you create a variable of type SupremeText.
   
   @Override
   public void onEnable(){
-     supremeText = TextAPI.getAPI();
+     supremeText = VersionFactory.getAPI();
   }
 ```
 
