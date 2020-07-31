@@ -2,7 +2,11 @@ package me.supremeproject;
 
 import me.supremeproject.message.Message;
 import me.supremeproject.objects.Title;
-import net.minecraft.server.v1_11_R1.*;
+import net.minecraft.server.v1_11_R1.PacketPlayOutChat;
+import net.minecraft.server.v1_11_R1.IChatBaseComponent;
+import net.minecraft.server.v1_11_R1.ChatMessage;
+import net.minecraft.server.v1_11_R1.PacketPlayOutTitle;
+import net.minecraft.server.v1_11_R1.Packet;
 import org.bukkit.craftbukkit.v1_11_R1.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 

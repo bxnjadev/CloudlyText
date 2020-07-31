@@ -20,8 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_1_9_4_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_1_16_1_R0_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_1_16_1_R0_1_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/TextAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/VersionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/VersionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/VersionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_10_R1/src/main/java/me/supremeproject/Version_1_10_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/src/main/java/me/supremeproject/Version_1_10_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/src/main/java/me/supremeproject/Version_1_11_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/src/main/java/me/supremeproject/Version_1_11_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/src/main/java/me/supremeproject/Version_1_12_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/src/main/java/me/supremeproject/Version_1_12_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R1/src/main/java/me/supremeproject/Version_1_13_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/src/main/java/me/supremeproject/Version_1_13_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R2/src/main/java/me/supremeproject/Version_1_13_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/src/main/java/me/supremeproject/Version_1_13_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_15_R1/src/main/java/me/supremeproject/Version_1_15_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/src/main/java/me/supremeproject/Version_1_15_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R1/src/main/java/me/supremeproject/Version_1_8_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/src/main/java/me/supremeproject/Version_1_8_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R2/src/main/java/me/supremeproject/Version_1_8_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/src/main/java/me/supremeproject/Version_1_8_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R3/src/main/java/me/supremeproject/Version_1_8_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/src/main/java/me/supremeproject/Version_1_8_R3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R1/src/main/java/me/supremeproject/Version_1_9_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/src/main/java/me/supremeproject/Version_1_9_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R2/src/main/java/me/supremeproject/Version_1_9_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/src/main/java/me/supremeproject/Version_1_9_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_14_R1/src/main/java/me/supremeproject/Version_1_14_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/src/main/java/me/supremeproject/Version_1_14_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/src/main/java/me/supremeproject/Version_1_16_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/src/main/java/me/supremeproject/Version_1_16_R1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +66,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spigot/Versiones/spigot-1.16.1.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14257812" />
@@ -90,10 +108,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1594791605418">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1596208973797">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594791605418" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596208973797" />
     <state x="707" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1594770831215">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

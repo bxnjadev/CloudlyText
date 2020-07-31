@@ -4,7 +4,7 @@ import org.bukkit.Bukkit;
 
 public class VersionFactory {
 
-    public static SupremeText getAPI(){
+    public SupremeText getVersionAPI(){
         String version = Bukkit.getServer().getClass().getPackage().getName().split("\\.")[3];
 
         if(version.contains("1_8_R1")){
@@ -58,7 +58,6 @@ public class VersionFactory {
         if(version.contains("1_16_R1")){
             return new Version_1_16_R1();
         }
-
         return null;
     }
 
