@@ -32,15 +32,15 @@ supremeText.sendTitle(player,title);
 ```
 
 ## Send json message
-you must first create a Message variable, help yourself with MessageBuilder
+you must first create a BaseComponent with BuilderMessage and send
 
 ```
-Message message = new MessageBuilder("This is a json message")
-                       .setAction(new Action(ActionType.RUN_COMMAND,"/say hello"))
-                       .setHover(new HoverBuilder("hello").append("everyone"))
-                       .buil();
-                           
-   supremeText.sendMessage(player,message);
+BaseComponent baseComponent = new BuilderMessage("Hello world")
+                              .setHover("this is a hover")
+                              .setAction(new Action(ActionType.COMMAND,"gamemode creative"));
+                              .build();
+                              
+#player.spigot().sendMessage(baseComponent);                              
 ```
 
 ## Supported versions
