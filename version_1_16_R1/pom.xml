@@ -3,9 +3,9 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>SupremeText</artifactId>
-        <groupId>me.supremeproject</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <artifactId>CloudlyText</artifactId>
+        <groupId>team.cloudly</groupId>
+        <version>2.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -36,9 +36,9 @@
     </repositories>
     <dependencies>
         <dependency>
-            <groupId>me.supremeproject</groupId>
-            <artifactId>SupremeText-Universal</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <artifactId>CloudlyText-Universal</artifactId>
+            <groupId>team.cloudly</groupId>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>

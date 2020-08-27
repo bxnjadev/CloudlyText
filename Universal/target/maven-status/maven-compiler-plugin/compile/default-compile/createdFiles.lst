@@ -1,8 +1,8 @@
-me\supremeproject\NMS.class
-me\supremeproject\message\HoverBuilder.class
-me\supremeproject\message\action\Action.class
-me\supremeproject\SupremeText.class
-me\supremeproject\message\action\ActionType.class
-me\supremeproject\message\MessageBuilder.class
-me\supremeproject\message\Message.class
-me\supremeproject\objects\Title.class
+team\cloudly\message\Message.class
+team\cloudly\objects\Title.class
+team\cloudly\message\MessageBuilder.class
+team\cloudly\message\action\ActionType.class
+team\cloudly\message\MessageBuilder$1.class
+team\cloudly\message\action\Action.class
+team\cloudly\NMS.class
+team\cloudly\CloudlyText.class

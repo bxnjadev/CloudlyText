@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SupremeText.iml" filepath="$PROJECT_DIR$/.idea/SupremeText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CloudlyText.iml" filepath="$PROJECT_DIR$/.idea/CloudlyText.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bukkit/SupremeText-Bukkit.iml" filepath="$PROJECT_DIR$/Bukkit/SupremeText-Bukkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Universal/SupremeText-Universal.iml" filepath="$PROJECT_DIR$/Universal/SupremeText-Universal.iml" />
       <module fileurl="file://$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" filepath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" />

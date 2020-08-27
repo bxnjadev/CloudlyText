@@ -3,13 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>SupremeText</artifactId>
-        <groupId>me.supremeproject</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <artifactId>CloudlyText</artifactId>
+        <groupId>team.cloudly</groupId>
+        <version>2.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>SupremeText-Bukkit</artifactId>
+    <artifactId>CloudlyTeam-Bukkit</artifactId>
 
     <name>Bukkit</name>
     <build>
@@ -44,81 +44,80 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_8_R3</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
+            <version>2.0-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_8_R2</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_8_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_9_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_9_R2</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_12_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_13_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_13_R2</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_15_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_11_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version-1_10_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version_1_14_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>me.supremeproject</groupId>
+            <groupId>team.cloudly</groupId>
             <artifactId>version_1_16_R1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
