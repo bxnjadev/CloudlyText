@@ -1,8 +1,9 @@
 # CloudlyText
+
 CloudlyText is an API to send json messages, messages with titles and messages in the action bar.
 
 ## Use
-first you create a variable of type SupremeText.
+first you create a instance of type CloudlyText.
 
 ```
   private CloudyText cloudlyText;
@@ -33,7 +34,7 @@ cloudlyText.sendTitle(player,title);
 ```
 
 ## Send json message
-you must first create a Message variable, help yourself with MessageBuilder
+you must first create a BaseComponent with BuilderMessage and send
 
 ```
 BaseComponent baseComponent = new BuilderMessage("Hello world")
@@ -42,8 +43,7 @@ BaseComponent baseComponent = new BuilderMessage("Hello world")
                               .build();
                               
 #player.spigot().sendMessage(baseComponent);     
-                          
-```
+```                 
 enjoy!
 
 

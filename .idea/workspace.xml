@@ -20,36 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/API/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/main/java/team/cloudly/TextFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/Bukkit.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/src/main/java/team/cloudly/VersionTextFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/version-1_11_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/version-1_11_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/version-1_12_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/version-1_12_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/version-1_13_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/version-1_13_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/version-1_13_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/version-1_13_R2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/version-1_15_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/version-1_15_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/version-1_8_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/version-1_8_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/version-1_8_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/version-1_8_R2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/version-1_8_R3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/version-1_8_R3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/version-1_9_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/version-1_9_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/version_1_14_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/version_1_14_R1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/version_1_16_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/version_1_16_R1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
