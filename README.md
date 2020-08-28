@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b55650a2b8194c5397f8e96495c27e32)](https://www.codacy.com/gh/CloudlyTeam/CloudlyText?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CloudlyTeam/CloudlyText&amp;utm_campaign=Badge_Grade)
+
 # CloudlyText
 
 CloudlyText is an API to send json messages, messages with titles and messages in the action bar.
