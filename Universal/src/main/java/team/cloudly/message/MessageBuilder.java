@@ -68,7 +68,7 @@ public class MessageBuilder implements Message {
     }
 
     public static BaseComponent buildByConfig(ConfigurationSection section){
-        String message = section.getString("message");
+        String message = section.getString("text");
         MessageBuilder builder = new MessageBuilder(message);
 
         if(section.contains("color")){
