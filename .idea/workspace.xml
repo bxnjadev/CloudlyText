@@ -21,7 +21,28 @@
   <component name="ChangeListManager">
     <list default="true" id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/version-1_10_R1-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/target/version-1_10_R1-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/version-1_11_R1-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/target/version-1_11_R1-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/version-1_13_R1-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/target/version-1_13_R1-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/version-1_13_R2-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/target/version-1_13_R2-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/version-1_15_R1-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/target/version-1_15_R1-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/version_1_14_R1-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/target/version_1_14_R1-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/version_1_16_R1-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/target/version_1_16_R1-2.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
