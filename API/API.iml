@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="CloudlyText-Universal" />
+    <orderEntry type="library" name="Maven: org.spigotmc:spigot-api:1.8.8-R0.1-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="version-1_8_R1" />
+    <orderEntry type="module" module-name="version-1_8_R2" />
+    <orderEntry type="module" module-name="version-1_8_R3" />
+    <orderEntry type="module" module-name="version-1_9_R1" />
+    <orderEntry type="module" module-name="version-1_9_R2" />
+    <orderEntry type="module" module-name="version-1_10_R1" />
+    <orderEntry type="module" module-name="version-1_11_R1" />
+    <orderEntry type="module" module-name="version-1_12_R1" />
+    <orderEntry type="module" module-name="version-1_13_R1" />
+    <orderEntry type="module" module-name="version-1_13_R2" />
+    <orderEntry type="module" module-name="version_1_14_R1" />
+    <orderEntry type="module" module-name="version-1_15_R1" />
+    <orderEntry type="module" module-name="version_1_16_R1" />
+  </component>
+</module>

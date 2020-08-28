@@ -20,129 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/message/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/message/MessageBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/message/action/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/message/action/ActionType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SupremeText.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CloudlyText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/src/main/java/team/cloudly/TextFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_1_16_1_R0_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_1_16_1_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/src/main/java/me/supremeproject/VersionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/src/main/java/team/cloudly/VersionTextFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/SupremeText-Bukkit-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/NMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/NMS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/SupremeText.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/CloudlyText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/HoverBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/MessageBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/action/Action.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/message/action/ActionType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/me/supremeproject/objects/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/objects/Title.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/SupremeText-Universal-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/NMS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/SupremeText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/HoverBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/MessageBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/action/Action.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/message/action/ActionType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/classes/me/supremeproject/objects/Title.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/Bukkit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/src/main/java/team/cloudly/VersionTextFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bukkit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/src/main/java/me/supremeproject/Version_1_10_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/src/main/java/team/cloudly/Version_1_10_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/classes/me/supremeproject/Version_1_10_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/version-1_10_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/src/main/java/me/supremeproject/Version_1_11_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/src/main/java/team/cloudly/Version_1_11_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/classes/me/supremeproject/Version_1_11_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/version-1_11_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/src/main/java/me/supremeproject/Version_1_12_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/src/main/java/team/cloudly/Version_1_12_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/classes/me/supremeproject/Version_1_12_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/src/main/java/me/supremeproject/Version_1_13_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/src/main/java/team/cloudly/Version_1_13_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/classes/me/supremeproject/Version_1_13_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/version-1_13_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/src/main/java/me/supremeproject/Version_1_13_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/src/main/java/team/cloudly/Version_1_13_R2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/classes/me/supremeproject/Version_1_13_R2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/version-1_13_R2-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/src/main/java/me/supremeproject/Version_1_15_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/src/main/java/team/cloudly/Version_1_15_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/classes/me/supremeproject/Version_1_15_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/version-1_15_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/src/main/java/me/supremeproject/Version_1_8_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/src/main/java/team/cloudly/Version_1_8_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/classes/me/supremeproject/Version_1_8_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/version-1_8_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/src/main/java/me/supremeproject/Version_1_8_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/src/main/java/team/cloudly/Version_1_8_R2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/classes/me/supremeproject/Version_1_8_R2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/version-1_8_R2-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/src/main/java/me/supremeproject/Version_1_8_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/src/main/java/team/cloudly/Version_1_8_R3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/classes/me/supremeproject/Version_1_8_R3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/version-1_8_R3-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/src/main/java/me/supremeproject/Version_1_9_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/src/main/java/team/cloudly/Version_1_9_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/classes/me/supremeproject/Version_1_9_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/version-1_9_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version-1_9_R2/src/main/java/me/supremeproject/Version_1_9_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/src/main/java/team/cloudly/Version_1_9_R2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/src/main/java/me/supremeproject/Version_1_14_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/src/main/java/team/cloudly/Version_1_14_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/classes/me/supremeproject/Version_1_14_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/version_1_14_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/src/main/java/me/supremeproject/Version_1_16_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/src/main/java/team/cloudly/Version_1_16_R1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/classes/me/supremeproject/Version_1_16_R1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/version_1_16_R1-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/version-1_10_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/version-1_11_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/version-1_11_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/version-1_12_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/version-1_12_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R1/version-1_13_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/version-1_13_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R2/version-1_13_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/version-1_13_R2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_15_R1/version-1_15_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/version-1_15_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R1/version-1_8_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/version-1_8_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R2/version-1_8_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/version-1_8_R2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R3/version-1_8_R3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/version-1_8_R3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R1/version-1_9_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/version-1_9_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/version-1_9_R2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_14_R1/version_1_14_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/version_1_14_R1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/version_1_16_R1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/version_1_16_R1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,8 +60,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -224,6 +131,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="599" y="43" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1594772202558" />
+    <state x="454" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598592067388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1598592067388" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598293881786">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -256,14 +167,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1595401133080" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1594792361588">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1598592854468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594792361588" />
-    <state x="209" y="0" key="new project wizard" timestamp="1594770570102">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598592854468" />
+    <state x="209" y="0" key="new project wizard" timestamp="1598592829810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594770570102" />
+    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598592829810" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598485434744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
