@@ -5,7 +5,7 @@
     <parent>
         <artifactId>CloudlyText</artifactId>
         <groupId>team.cloudly</groupId>
-        <version>2.0-SNAPSHOT</version>
+        <version>3.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -37,16 +37,16 @@
 
     <dependencies>
         <dependency>
-            <artifactId>CloudlyText-Universal</artifactId>
-            <groupId>team.cloudly</groupId>
-            <version>2.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>
             <version>1.11-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <artifactId>CloudlyText-Universal</artifactId>
+            <groupId>team.cloudly</groupId>
+            <version>3.0-SNAPSHOT</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 

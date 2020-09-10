@@ -1,7 +1,11 @@
-C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\message\Message.java
+C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\text\part\action\ActionTypeClick.java
 C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\CloudlyText.java
-C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\message\action\Action.java
+C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\text\part\TextPart.java
+C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\text\part\action\ActionClick.java
 C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\objects\Title.java
-C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\message\action\ActionType.java
+C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\text\part\PartTextBuilder.java
+C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\text\Text.java
 C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\NMS.java
-C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\message\MessageBuilder.java
+C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\text\TextBuilder.java
+C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\text\part\hover\HoverBuilder.java
+C:\Users\supre\intelijj\CloudlyText\Universal\src\main\java\team\cloudly\text\part\SimplePart.java

@@ -1,8 +1,8 @@
-package team.cloudly.message;
+package team.cloudly.text;
 
 import net.md_5.bungee.api.chat.BaseComponent;
 
-public interface Message {
+public interface Text {
 
     BaseComponent create();
 

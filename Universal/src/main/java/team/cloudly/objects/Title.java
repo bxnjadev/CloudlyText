@@ -9,6 +9,10 @@ public class Title {
     private final int fadeShowTime;
     private final int fadeOutTime;
 
+    public Title(String title, String subtitle){
+        this(title,subtitle,20,20,20);
+    }
+
     public Title(String title, String subtitle, int fadeInTime, int fadeShowTime, int fadeOutTime){
         this.title = title;
         this.subtitle = subtitle;
