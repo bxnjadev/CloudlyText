@@ -3,10 +3,10 @@ team\cloudly\text\part\action\ActionTypeClick.class
 team\cloudly\text\part\TextPart.class
 team\cloudly\text\part\hover\HoverBuilder.class
 team\cloudly\text\part\action\ActionClick.class
+team\cloudly\text\part\TextPartBuilder$1.class
+team\cloudly\text\part\TextPartBuilder.class
 team\cloudly\NMS.class
 team\cloudly\text\part\SimplePart.class
 team\cloudly\CloudlyText.class
-team\cloudly\text\part\PartTextBuilder.class
 team\cloudly\text\Text.class
-team\cloudly\text\part\PartTextBuilder$1.class
 team\cloudly\text\TextBuilder.class

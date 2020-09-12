@@ -6,8 +6,8 @@ public interface TextPart {
 
     BaseComponent getPart();
 
-    static PartTextBuilder of(String text){
-      return new PartTextBuilder(text);
+    static TextPartBuilder of(String text){
+      return new TextPartBuilder(text);
     }
 
 }

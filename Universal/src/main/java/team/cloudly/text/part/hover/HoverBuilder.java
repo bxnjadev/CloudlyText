@@ -1,5 +1,7 @@
 package team.cloudly.text.part.hover;
 
+import net.md_5.bungee.api.ChatColor;
+
 import java.util.List;
 
 public class HoverBuilder {
@@ -15,7 +17,8 @@ public class HoverBuilder {
     }
 
     public HoverBuilder append(String text){
-        hover.append(text).append("\n");
+        hover.append(ChatColor.translateAlternateColorCodes('&',text)
+        ).append("\n");
         return this;
     }
 
@@ -25,7 +28,7 @@ public class HoverBuilder {
     }
 
     public String create(){
-        hover.delete(hover.length()-2,hover.length());
+        hover.delete(hover.length()-1,hover.length());
         return hover.toString();
     }
 
