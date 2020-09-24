@@ -1,4 +1,4 @@
-package team.cloudly.objects;
+package team.cloudly.title;
 
 public class Title {
 

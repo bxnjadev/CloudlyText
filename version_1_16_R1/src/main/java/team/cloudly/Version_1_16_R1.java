@@ -1,6 +1,6 @@
 package team.cloudly;
 
-import team.cloudly.objects.Title;
+import team.cloudly.title.Title;
 import net.minecraft.server.v1_16_R1.*;
 import org.bukkit.craftbukkit.v1_16_R1.entity.CraftPlayer;
 import org.bukkit.entity.Player;

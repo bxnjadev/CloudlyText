@@ -23,37 +23,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/ReplacerText.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/API/API.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/target/API-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/API/target/API-3.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/API/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SupremeText.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudlyText.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/CloudlyText.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/CloudlyText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/objects/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/title/Title.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/TextBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/TextBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/part/PartTextBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/part/TextPartBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/part/TextPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/part/TextPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/part/hover/HoverBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/src/main/java/team/cloudly/text/part/hover/HoverBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Universal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Universal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Universal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_10_R1/src/main/java/team/cloudly/Version_1_10_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/src/main/java/team/cloudly/Version_1_10_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/classes/team/cloudly/Version_1_10_R1.class" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/target/classes/team/cloudly/Version_1_10_R1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_10_R1/target/version-1_10_R1-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_10_R1/target/version-1_10_R1-3.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/src/main/java/team/cloudly/Version_1_11_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/src/main/java/team/cloudly/Version_1_11_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/classes/team/cloudly/Version_1_11_R1.class" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/target/classes/team/cloudly/Version_1_11_R1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_11_R1/target/version-1_11_R1-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_11_R1/target/version-1_11_R1-3.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/src/main/java/team/cloudly/Version_1_12_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/src/main/java/team/cloudly/Version_1_12_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/classes/team/cloudly/Version_1_12_R1.class" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/classes/team/cloudly/Version_1_12_R1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/target/version-1_12_R1-3.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R1/src/main/java/team/cloudly/Version_1_13_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/src/main/java/team/cloudly/Version_1_13_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/classes/team/cloudly/Version_1_13_R1.class" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/target/classes/team/cloudly/Version_1_13_R1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_13_R1/target/version-1_13_R1-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R1/target/version-1_13_R1-3.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R2/src/main/java/team/cloudly/Version_1_13_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/src/main/java/team/cloudly/Version_1_13_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/classes/team/cloudly/Version_1_13_R2.class" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/target/classes/team/cloudly/Version_1_13_R2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_13_R2/target/version-1_13_R2-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/target/version-1_13_R2-3.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_15_R1/src/main/java/team/cloudly/Version_1_15_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/src/main/java/team/cloudly/Version_1_15_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/classes/team/cloudly/Version_1_15_R1.class" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/target/classes/team/cloudly/Version_1_15_R1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_15_R1/target/version-1_15_R1-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/target/version-1_15_R1-3.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R1/src/main/java/team/cloudly/Version_1_8_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/src/main/java/team/cloudly/Version_1_8_R1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R2/src/main/java/team/cloudly/Version_1_8_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/src/main/java/team/cloudly/Version_1_8_R2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R3/src/main/java/team/cloudly/Version_1_8_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/src/main/java/team/cloudly/Version_1_8_R3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R1/src/main/java/team/cloudly/Version_1_9_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/src/main/java/team/cloudly/Version_1_9_R1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R2/src/main/java/team/cloudly/Version_1_9_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R2/src/main/java/team/cloudly/Version_1_9_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_14_R1/src/main/java/team/cloudly/Version_1_14_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/src/main/java/team/cloudly/Version_1_14_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/classes/team/cloudly/Version_1_14_R1.class" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/target/classes/team/cloudly/Version_1_14_R1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version_1_14_R1/target/version_1_14_R1-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_14_R1/target/version_1_14_R1-3.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/src/main/java/team/cloudly/Version_1_16_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/src/main/java/team/cloudly/Version_1_16_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/classes/team/cloudly/Version_1_16_R1.class" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/target/classes/team/cloudly/Version_1_16_R1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version_1_16_R1/target/version_1_16_R1-3.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/version_1_16_R1/target/version_1_16_R1-3.0-SNAPSHOT.jar" afterDir="false" />
     </list>
@@ -66,8 +85,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,6 +113,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14257812" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -127,7 +152,30 @@
       <workItem from="1599752950921" duration="2702000" />
       <workItem from="1599791582468" duration="349000" />
       <workItem from="1599873330141" duration="128000" />
-      <workItem from="1599951957294" duration="651000" />
+      <workItem from="1599951957294" duration="1425000" />
+      <workItem from="1600020881330" duration="1590000" />
+      <workItem from="1600026061006" duration="3136000" />
+      <workItem from="1600031005191" duration="2239000" />
+      <workItem from="1600054369004" duration="1636000" />
+      <workItem from="1600064370802" duration="806000" />
+      <workItem from="1600118357248" duration="99000" />
+      <workItem from="1600647556059" duration="925000" />
+      <workItem from="1600797054666" duration="567000" />
+      <workItem from="1600807883599" duration="986000" />
+      <workItem from="1600810222975" duration="3464000" />
+      <workItem from="1600816725608" duration="579000" />
+      <workItem from="1600818039279" duration="125000" />
+      <workItem from="1600818377517" duration="116000" />
+      <workItem from="1600821247947" duration="896000" />
+      <workItem from="1600873718320" duration="329000" />
+      <workItem from="1600876908644" duration="105000" />
+      <workItem from="1600877049414" duration="40000" />
+      <workItem from="1600877359132" duration="1066000" />
+      <workItem from="1600878612282" duration="148000" />
+      <workItem from="1600879053941" duration="276000" />
+      <workItem from="1600881186888" duration="749000" />
+      <workItem from="1600893418262" duration="352000" />
+      <workItem from="1600908068685" duration="593000" />
     </task>
     <servers />
   </component>
@@ -147,10 +195,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1599752970620">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1600893595900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1599752970620" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600893595900" />
     <state x="707" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1599699191637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -159,10 +207,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="599" y="43" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1594772202558" />
-    <state x="454" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598592067388">
+    <state x="454" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600020916135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="454" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1598592067388" />
+    <state x="454" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1600020916135" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598293881786">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -175,22 +223,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594787948378" />
-    <state width="1493" height="170" key="GridCell.Tab.0.bottom" timestamp="1594827753017">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600881936733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594827753017" />
-    <state width="1493" height="170" key="GridCell.Tab.0.center" timestamp="1594827753017">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600881936733" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600881936733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="170" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594827753017" />
-    <state width="1493" height="170" key="GridCell.Tab.0.left" timestamp="1594827753017">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600881936733" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600881936733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="170" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594827753017" />
-    <state width="1493" height="170" key="GridCell.Tab.0.right" timestamp="1594827753017">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600881936733" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600881936733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="170" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594827753017" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600881936733" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1595401133080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -199,6 +247,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598592854468" />
+    <state x="499" y="173" key="extract.method.dialog" timestamp="1600029636012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="173" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1600029636012" />
     <state x="209" y="0" key="new project wizard" timestamp="1598592829810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

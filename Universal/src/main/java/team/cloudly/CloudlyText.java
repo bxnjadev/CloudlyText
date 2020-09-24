@@ -1,6 +1,6 @@
 package team.cloudly;
 
-import team.cloudly.objects.Title;
+import team.cloudly.title.Title;
 import org.bukkit.entity.Player;
 
 public interface CloudlyText {

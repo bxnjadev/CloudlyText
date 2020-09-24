@@ -1,6 +1,6 @@
 package team.cloudly;
 
-import team.cloudly.objects.Title;
+import team.cloudly.title.Title;
 import net.minecraft.server.v1_9_R2.PacketPlayOutChat;
 import net.minecraft.server.v1_9_R2.IChatBaseComponent;
 import net.minecraft.server.v1_9_R2.ChatMessage;
