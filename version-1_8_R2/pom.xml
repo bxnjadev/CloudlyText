@@ -11,7 +11,7 @@
 
     <artifactId>version-1_8_R2</artifactId>
 
-    <name>version-1_8_R3</name>
+    <name>version-1_8_R2</name>
     <build>
         <plugins>
             <plugin>
