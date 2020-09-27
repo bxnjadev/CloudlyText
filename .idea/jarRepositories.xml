@@ -22,6 +22,11 @@
       <option name="url" value="https://hub.spigotmc.org/nexus/content/repositories/snapshots/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="spigotmc-repo" />
+      <option name="name" value="spigotmc-repo" />
+      <option name="url" value="https://oss.sonatype.org/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
@@ -34,6 +39,11 @@
     <remote-repository>
       <option name="id" value="nms-repo" />
       <option name="name" value="nms-repo" />
+      <option name="url" value="https://repo.codemc.io/repository/nms/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spigotmc-repo" />
+      <option name="name" value="spigotmc-repo" />
       <option name="url" value="https://repo.codemc.io/repository/nms/" />
     </remote-repository>
   </component>

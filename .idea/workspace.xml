@@ -23,9 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe1e98d-9fa5-4835-822a-2b17050bb60f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_1_16_1_R0_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_1_16_1_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_12_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_12_R1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_13_R2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_13_R2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_15_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_15_R1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version-1_8_R2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_8_R3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_8_R3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version-1_9_R1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/version-1_9_R1/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +136,8 @@
       <workItem from="1600925390706" duration="232000" />
       <workItem from="1600980555852" duration="580000" />
       <workItem from="1600981912125" duration="161000" />
-      <workItem from="1601223324257" duration="746000" />
+      <workItem from="1601223324257" duration="1357000" />
+      <workItem from="1601231205647" duration="622000" />
     </task>
     <servers />
   </component>
@@ -178,22 +185,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594787948378" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600881936733">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601225452893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600881936733" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600881936733">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601225452893" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601225452893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600881936733" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600881936733">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601225452893" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601225452892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600881936733" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600881936733">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601225452892" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601225452893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600881936733" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601225452893" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1595401133080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
